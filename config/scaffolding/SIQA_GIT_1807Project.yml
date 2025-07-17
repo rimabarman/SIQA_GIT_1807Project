@@ -16,3 +16,7 @@ services:
   packages:
   - name: SIQA_GIT_1807Project
     version: "1.0"
+- serviceName: project.siqa_git_1807.integrations:Copy_Call_refData
+  packages:
+  - name: SIQA_GIT_1807Project
+    version: "1.0"
